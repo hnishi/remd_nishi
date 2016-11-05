@@ -1,0 +1,14 @@
+#set term png
+#set output "pd_pot.png"
+set term svg enhanced font "Arial, 14" # in svg, 100=1inch
+set output "pd_temp.svg"
+set encoding iso_8859_1
+
+set datafile commentschars "@|#"
+set style data line
+p "no0/dist_temp.xvg","no1/dist_temp.xvg","no2/dist_temp.xvg","no3/dist_temp.xvg","no4/dist_temp.xvg","no5/dist_temp.xvg","no6/dist_temp.xvg","no7/dist_temp.xvg","no8/dist_temp.xvg","no9/dist_temp.xvg","no10/dist_temp.xvg","no11/dist_temp.xvg","no12/dist_temp.xvg","no13/dist_temp.xvg","no14/dist_temp.xvg","no15/dist_temp.xvg","no16/dist_temp.xvg","no17/dist_temp.xvg","no18/dist_temp.xvg","no19/dist_temp.xvg","no20/dist_temp.xvg","no21/dist_temp.xvg","no22/dist_temp.xvg","no23/dist_temp.xvg","no24/dist_temp.xvg","no25/dist_temp.xvg","no26/dist_temp.xvg","no27/dist_temp.xvg","no28/dist_temp.xvg","no29/dist_temp.xvg","no30/dist_temp.xvg","no31/dist_temp.xvg","no32/dist_temp.xvg","no33/dist_temp.xvg","no34/dist_temp.xvg","no35/dist_temp.xvg","no36/dist_temp.xvg","no37/dist_temp.xvg","no38/dist_temp.xvg","no39/dist_temp.xvg","no40/dist_temp.xvg","no41/dist_temp.xvg","no42/dist_temp.xvg","no43/dist_temp.xvg","no44/dist_temp.xvg","no45/dist_temp.xvg","no46/dist_temp.xvg","no47/dist_temp.xvg","no48/dist_temp.xvg","no49/dist_temp.xvg","no50/dist_temp.xvg","no51/dist_temp.xvg","no52/dist_temp.xvg","no53/dist_temp.xvg","no54/dist_temp.xvg","no55/dist_temp.xvg","no56/dist_temp.xvg","no57/dist_temp.xvg","no58/dist_temp.xvg","no59/dist_temp.xvg","no60/dist_temp.xvg","no61/dist_temp.xvg","no62/dist_temp.xvg","no63/dist_temp.xvg","no64/dist_temp.xvg","no65/dist_temp.xvg","no66/dist_temp.xvg","no67/dist_temp.xvg","no68/dist_temp.xvg","no69/dist_temp.xvg","no70/dist_temp.xvg","no71/dist_temp.xvg","no72/dist_temp.xvg","no73/dist_temp.xvg","no74/dist_temp.xvg","no75/dist_temp.xvg","no76/dist_temp.xvg","no77/dist_temp.xvg","no78/dist_temp.xvg","no79/dist_temp.xvg","no80/dist_temp.xvg","no81/dist_temp.xvg","no82/dist_temp.xvg","no83/dist_temp.xvg","no84/dist_temp.xvg","no85/dist_temp.xvg","no86/dist_temp.xvg","no87/dist_temp.xvg","no88/dist_temp.xvg","no89/dist_temp.xvg","no90/dist_temp.xvg","no91/dist_temp.xvg","no92/dist_temp.xvg","no93/dist_temp.xvg","no94/dist_temp.xvg","no95/dist_temp.xvg","no96/dist_temp.xvg","no97/dist_temp.xvg","no98/dist_temp.xvg","no99/dist_temp.xvg","no100/dist_temp.xvg","no101/dist_temp.xvg","no102/dist_temp.xvg","no103/dist_temp.xvg","no104/dist_temp.xvg","no105/dist_temp.xvg","no106/dist_temp.xvg","no107/dist_temp.xvg","no108/dist_temp.xvg","no109/dist_temp.xvg","no110/dist_temp.xvg","no111/dist_temp.xvg","no112/dist_temp.xvg","no113/dist_temp.xvg","no114/dist_temp.xvg","no115/dist_temp.xvg","no116/dist_temp.xvg","no117/dist_temp.xvg","no118/dist_temp.xvg","no119/dist_temp.xvg","no120/dist_temp.xvg","no121/dist_temp.xvg","no122/dist_temp.xvg","no123/dist_temp.xvg","no124/dist_temp.xvg","no125/dist_temp.xvg","no126/dist_temp.xvg","no127/dist_temp.xvg" #,"no128/dist_temp.xvg"
+
+
+#pause -1
+
+
